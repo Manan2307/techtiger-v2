@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/techtiger-v2/static/css/main.e72d7d83.css",
+    "main.js": "/techtiger-v2/static/js/main.22af8b5d.js",
+    "index.html": "/techtiger-v2/index.html",
+    "main.e72d7d83.css.map": "/techtiger-v2/static/css/main.e72d7d83.css.map",
+    "main.22af8b5d.js.map": "/techtiger-v2/static/js/main.22af8b5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e72d7d83.css",
+    "static/js/main.22af8b5d.js"
+  ]
+}
